@@ -5,7 +5,6 @@ Welcome to the ChatGPT4All installation and usage guide! This repository provide
 
 <p align="center">Open-source assistant-style large language models that run locally on your CPU</p>
 
-<p align="center"><strong>New</strong>: Now with Nomic Vulkan Universal GPU support. <a href="https://blog.nomic.ai/posts/gpt4all-gpu-inference-with-vulkan">Learn more</a>.</p>
 
 <p align="center">
 <a href="https://gpt4all.io">GPT4All Website</a>
@@ -13,18 +12,6 @@ Welcome to the ChatGPT4All installation and usage guide! This repository provide
 
 <p align="center">
 <a href="https://docs.gpt4all.io">GPT4All Documentation</a>
-</p>
-
-<p align="center">
-<a href="https://discord.gg/mGZE39AS3e">Discord</a>
-</p>
-
-<p align="center">
-<a href="https://python.langchain.com/en/latest/modules/models/llms/integrations/gpt4all.html">🦜️🔗 Official Langchain Backend</a> 
-</p>
-
-<p align="center">
-GPT4All is made possible by our compute partner <a href="https://www.paperspace.com/">Paperspace</a>.
 </p>
 
 <p align="center">
