@@ -48,26 +48,28 @@ Usage
 Basic Usage
 ChatGPT4All can be used for simple text generation with just a few lines of code. Here's a basic example:
 
-from chatgpt4all import ChatGPT4All
+ ```bash
+   from chatgpt4all import ChatGPT4All
+   ```
+```bash
+   chatgpt = ChatGPT4All()
+   ```
 
-# Initialize ChatGPT4All
-chatgpt = ChatGPT4All()
-
-# Generate text
-response = chatgpt.generate_response("Tell me a joke")
-
-# Print the AI's response
-print(response)
+```bash
+   response = chatgpt.generate_response("Tell me a joke")
+   ```
+```bash
+   print(response)
+   ```
 
 
-Advanced Usage
+# Advanced Usage
 For more advanced use cases, you can customize the model's behavior and generate longer conversations. Check the official OpenAI documentation for in-depth information.
 
-Example Code
+# Example Code
 In the examples directory, you will find additional code samples demonstrating various use cases of ChatGPT4All. Feel free to explore and adapt these examples to your needs.
 
-Tips and Best Practices
+# Tips and Best Practices
 Experiment with different conversation structures to get the best results.
 Be mindful of the model's response length to ensure it stays within OpenAI's limits.
 Respect ethical guidelines and avoid using the model for harmful purposes.
-License
