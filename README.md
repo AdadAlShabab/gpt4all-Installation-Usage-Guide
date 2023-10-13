@@ -61,8 +61,6 @@ Usage
 Basic Usage
 ChatGPT4All can be used for simple text generation with just a few lines of code. Here's a basic example:
 
-python
-Copy code
 from chatgpt4all import ChatGPT4All
 
 # Initialize ChatGPT4All
@@ -73,6 +71,8 @@ response = chatgpt.generate_response("Tell me a joke")
 
 # Print the AI's response
 print(response)
+
+
 Advanced Usage
 For more advanced use cases, you can customize the model's behavior and generate longer conversations. Check the official OpenAI documentation for in-depth information.
 
@@ -84,12 +84,3 @@ Experiment with different conversation structures to get the best results.
 Be mindful of the model's response length to ensure it stays within OpenAI's limits.
 Respect ethical guidelines and avoid using the model for harmful purposes.
 License
-This repository is licensed under the MIT License. Please review the license before using the code or any associated resources.
-
-If you encounter any issues or have questions, please feel free to create an issue in this repository, and we'll be happy to assist you.
-
-Enjoy using ChatGPT4All!
-
-### Chat Client building and running
-
-* Follow the visual instructions on the chat client [build_and_run](gpt4all-chat/build_and_run.md) page
