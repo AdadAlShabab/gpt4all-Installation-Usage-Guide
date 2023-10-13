@@ -34,7 +34,7 @@ A GPT4All model is a 3GB - 8GB file that you can download and plug into the GPT4
 # Chat Client
 Run any GPT4All model natively on your home desktop with the auto-updating desktop chat client. See <a href="https://gpt4all.io">GPT4All Website</a> for a full list of open-source models you can run with this powerful desktop application.
 
-### Direct Installer Links:
+### Direct Installer Download Links:
 
 * [macOS](https://gpt4all.io/installers/gpt4all-installer-darwin.dmg)
 
